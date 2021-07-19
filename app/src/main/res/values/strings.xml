@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">HelpApp</string>
+    <string name="password">Hasło</string>
+    <string name="login">Login</string>
+    <string name="name">Imię</string>
+    <string name="surname">Nazwisko</string>
+    <string name="email">E-mail</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="alreadyRegistered">Posiadasz już konto? Zaloguj się</string>
+    <string name="noAccount">Nie posiadasz konta? Zarejestruj się</string>
+    <string name="logIn">Zaloguj się</string>
+    <string name="accontsOnPhone">Ostatnio zalogowani na urządzeniu: </string>
+    <string name="delete">Usuń konto z telefonu</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_routes">Moje trasy:</string>
+    <string name="friends_routes">Trasy znajomych:</string>
+    <string name="lng">Długość</string>
+    <string name="lat">Szerokość</string>
+    <string name="date">Data</string>
+    <string name="accept">Zaakceptuj</string>
+    <string name="send_invitation">Wyślij zaproszenie</string>
+    <string name="dismiss">Odrzuć</string>
+    <string name="directions">Znajdź trasę</string>
+    <string name="city">Miasto</string>
+    <string name="birth">Data urodzenia</string>
+
+
+    <string name="menu_start">Strona Główna</string>
+    <string name="menu_account">Profil</string>
+    <string name="menu_map">Twoja lokalizacja</string>
+    <string name="menu_logout">Wyloguj się</string>
+    <string name="menu_routes">Udostępnione Trasy</string>
+    <string name="menu_invitations">Zaproszenia</string>
+    <string name="menu_friends">Znajomi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
